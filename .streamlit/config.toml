@@ -1,0 +1,8 @@
+[server]
+maxUploadSize = 50  # Permite subir fotos pesadas de cámaras de alta resolución
+
+[theme]
+primaryColor = "#00d4ff"
+backgroundColor = "#0f0f1a"
+secondaryBackgroundColor = "#16213e"
+textColor = "#ffffff"
